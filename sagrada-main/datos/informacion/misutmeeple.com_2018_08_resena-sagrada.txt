@@ -1,0 +1,453 @@
+URL ORIGINAL: https://misutmeeple.com/2018/08/resena-sagrada/
+TÍTULO: Reseña: Sagrada | Misut Meeple
+
+✅ Página obtenida con éxito
+
+Título de la pestaña: Reseña: Sagrada | Misut Meeple
+
+H1: Reseña: Sagrada
+
+
+H2 encontrados:
+
+- Introducción
+- Contenido
+- Mecánica
+- Opinión Personal
+- Navegación de entradas
+- 19 comentarios
+- Suscríbete al blog por correo electrónico
+
+H3 encontrados:
+
+- Conceptos Básicos
+- Preparación de la Partida
+- Desarrollo de la Partida
+- Fin de la Partida
+- Variantes
+- Me gusta esto:
+- Deja una respuesta Cancelar la respuesta
+
+H4 encontrados:
+
+- Privacy Overview
+
+
+Párrafos:
+
+1. Como experto artesano, tienes en mente realizar una obra de arte con tu próxima vidriera, que será colocada en la Sagrada Familia. Los jugadores alternarán turnos escogiendo piezas de cristal, representadas mediante dados. Tendrán que escoger cuidadosamente, ya que las vidrieras tienen colores y opacidades únicas, de forma que un dado nunca podrá colocarse adyacente a otro que comparta alguna de estas características. Dispondrás de herramientas que te ayudarán a lograr completar esta importante tarea. Aumenta tu prestigio adaptando la obra a los deseos de los admiradores, pero siempre manteniendo un estilo propio mientras completas tu próxima obra maestra del vidrio.
+2. Así se nos presenta este Sagrada, un diseño de Daryl Andrews (The Walled City: Londonderry & Bordelands o Roar: King of the Pride) y Adrian Adamescu (Rival Kings Vefore the Earth Explodes). El juego fue publicado en 2017 por Floodgate Games, tras financiarse mediante una exitosa campaña de micromecenazgo a través de Kickstarter, en una edición en inglés. Posteriormente llegarían bastantes licencias. De las ilustraciones se encarga Peter Wocken, quien ya demostrase su talento en juegos como BioShock Infinite: The Siege of Columbia, Bad Maps o Backyard Builders Treehouse.
+3. El juego se encuentra publicado en nuestro país por Devir en una edición en español, ya que el juego muestra cierta dependencia del idioma en algunas cartas. Permite partidas de 1 a 4 jugadores, con una edad mínima sugerida de 14 años y una duración aproximada de entre 30 y 45 minutos. El precio de venta al público es de 40€. Para esta reseña se ha utilizado una copia de la versión en español de Devir, que la propia editorial nos ha cedido amablemente.
+5. Importante: si ya conoces el juego y/o sólo te interesa mi opinión sobre el mismo, puedes pasar directamente al apartado de Opinión. Los apartados Contenido y Mecánica están destinados especialmente a aquellos que no conocen el juego y prefieren hacerse una idea general de cómo funciona.
+6. Ir a la Opinión Personal
+7. Dentro de una caja de cartón de dos piezas (tapa y fondo), de dimensiones 31,5×22,5×9 cm. (caja rectangular grande estándar tipo Agricola), nos encontramos con los siguientes elementos:
+9. Sagrada es un juego con mecánicas principales de draft de dados y construcción de patrones. A lo largo de diez rondas, los jugadores deberán escoger una serie de dados (previamente lanzados) de un suministro común para ir colocándolos en un tablero cuadriculado (la vidriera). A la hora de colocar un dado en esta cuadricula se debe cumplir, además del requisito del patrón escogido al comienzo de la partida (tanto de opacidad como de color), la regla de adyacencia (cada nuevo dado debe colocarse ortogonal o diagonalmente a uno ya colocado) y la prohibición de adyacencia ortogonal (no se pueden colocar dados adyacentes lado con lado de un mismo color y/o valor). Los jugadores tendrán a su disposición tres herramientas que podrán activarse con un determinado coste para poder los dados o las vidrieras. Cada jugador dispondrá de un objetivo secreto, aparte de los tres comunes que se colocan en el centro de la mesa. Todos estos objetivos se evaluarán al final de la partida para determinar cuál es la mejor vidriera, teniendo en cuenta que cada hueco en la misma restará puntos.
+10. Comencemos por los Dados de seis caras (con valores del 1 al 6). Estos representan los distintos segmentos de la vidriera que tenemos que conformar a lo largo de la partida. Encontramos cinco colores: verde, amarillo, rojo, azul y morado. A lo largo de las rondas, los jugadores deberán ir tomando dados de un suministro común que se coloca en el centro de la mesa al comienzo de las mismas.
+12. Estos dados se colocarán en un Tablero de Vidriera que muestra una rejilla cuadriculada de cuatro filas y cinco columnas para una vidriera de veinte dados. Este tablero está troquelado y tiene dos capas, de forma que los dados quedan encajados. A la hora de colocar dados en esta rejilla habrá que cumplir dos condiciones. La primera, es que un dado siempre deberá colocarse en un espacio que se encuentre adyacente (ortogonal o diagonalmente) a algún espacio ya ocupado (con excepción del primer dado). La segunda, es que un dado no podrá compartir características (valor y/o color) con un dado que se encuentre ortogonalmente adyacente (en diagonal si está permitido). Bajo esta rejilla se encuentra una ranura donde podremos introducir una carta de patrón. Al final de la partida, si un dado incumple alguna norma de colocación, deberá ser retirado de la vidriera. Por cada hueco en la vidriera el jugador perderá puntos.
+13. Estas Cartas de Patrón aplican una condición sobre algunos de los espacios de la rejilla. Estas condiciones pueden ser de color (especificando el color del dado, pero no el valor) o de opacidad (especificando el valor del dado, pero no el color), funcionando como una tercera restricción a las dos mencionadas anteriormente. Adicionalmente, cada carta de patrón muestra un nivel de dificultad indicado en la esquina inferior derecha mediante una cantidad de puntos (entre 3 y 6). Cada carta muestra dos caras, y al comienzo de la partida los jugadores escogerán con qué cara jugador de la carta elegida.
+15. Para ofrecer algo de margen a los jugadores a la hora de ir colocando los dados en el tablero encontramos las Cartas de Herramienta. Son cartas que muestran habilidades que, en la mayoría de los casos, permiten alterar el valor o posición de los dados, a veces incluso rompiendo las restricciones anteriormente comentadas. En cada partida habrá tres de estas herramientas disponibles, las cuales muestran, además un recuadro de color que será utilizado en el modo en solitario.
+16. La activación de estas cartas de herramientas no será gratuita. Para ello los jugadores dispondrán de unos Marcadores de Favor de cristal. La primera activación de una herramienta solo costará uno de estos favores, mientras que, a partir de que ya haya un marcador en la carta, su coste de activación se duplicará, siendo necesarios dos marcadores. La cantidad de marcadores de favor que un jugador recibirá al comienzo de la partida dependerá de la dificultad del patrón escogido (el número de puntos).
+18. Al comienzo de la partida se repartirá a cada jugador una Carta de Objetivo Privado que proporcionará puntos según los valores de los dados de un color especifico colocados en la vidriera del jugador.
+19. Adicionalmente, en el centro de la mesa se revelarán una serie de Cartas de Objetivo Público. Estas cartas proporcionan una determinada cantidad de puntos (indicados en la esquina inferior izquierda) por cumplir un determinado patrón, ya sea de opacidad (respecto a los valores de los dados) o de color (respecto al color de los dados).
+20. Durante la partida se utilizará un Tablero de Ronda para controlar el progreso de la partida. Se muestra un track con 10 casillas sobre las que se irán colocando dados sobrantes en cada ronda (solo 1 por ronda). Una vez se complete la partida, este mismo tablero, por la otra cara, servirá para llevar la cuenta de los puntos acumulados por los jugadores mediante las cartas de objetivos (privado y públicos), los marcadores de favor no utilizados y los huecos en la vidriera.
+21. Con esto tenemos suficiente.
+22. ¡Ya podemos comenzar!
+24. Una partida de Sagrada consta de 10 rondas que se estructura en tres fases.
+25. Fase I: Lanzamiento de Dados
+26. El jugador inicial extrae de la bolsa tantos dados como el doble del número de jugadores más uno, y los lanza, colocándolos en el centro de la mesa.
+27. Fase II: Turnos
+28. Comenzando por el jugador inicial y continuando en el sentido de las agujas del reloj, cada jugador disfruta de un turno en el que puede ejecutar alguna de las siguientes opciones en el orden que crea conveniente (puede incluso pasar directamente):
+29. Tras esto, el turno pasa al jugador de la izquierda.
+30. Una vez que todos los jugadores han dispuesto de un turno, se procede de igual forma, pero ahora comenzando por el jugador sentado a la derecha del jugador inicial y continuando en el sentido contrario a las agujas del reloj.
+31. La fase finaliza una vez que todos los jugadores han disfrutado de 2 turnos.
+32. Fase III: Mantenimiento
+33. Se realizan los siguientes pasos:
+34. La partida finaliza al término de la décima ronda, tras la que se procede a evaluar las vidrieras de los jugadores. En primer lugar, hay que comprobar que las vidrieras no incumplen las normas. Para ello, se extrae el patrón del tablero, y cada jugador revisa la vidriera del jugador de su izquierda. Si algún dado de la vidriera del jugador incumple el patrón o alguna de las reglas de adyacencia, el jugador dueño de la vidriera deberá retirar los dados que sean necesarios para cumplir dichas normas. Una vez validadas todas las vidrieras, cada jugador anota los siguientes puntos:
+35. El jugador con más puntos de victoria será el vencedor. En caso de empate, el vencedor será el jugador con más puntos obtenidos mediante el objetivo privado. Si se mantiene la igualdad, el vencedor será el jugador con más marcadores de favor sin utilizar. Si el empate persiste, el vencedor será el jugador más alejado del jugador inicial (en el sentido de las agujas del reloj) en la última ronda.
+36. Juego en Solitario: el jugador debe intentar superar la puntuación objetivo, que no es otra que la suma de todos los valores de los dados colocados en el track de rondas. Las reglas del juego estándar se aplican con dos excepciones: los marcadores de favor no se utilizan y se utilizan 2 objetivos públicos y 2 objetivos privados. El número de herramientas a utilizar dependerá del nivel de dificultad escogido (de 1 herramienta, desafío extremo, a 5 herramientas, fácil). En cada ronda el jugador extrae solo 4 dados de la bolsa. Ahora, en cada ronda, solo podrá utilizarse una de las herramientas descartando un dado del suministro que coincida con el color del dado mostrado en la carta de herramienta. Hay que tener cuidado de no manipular los valores de los dados que se colocan sobre el tablero de rondas.
+37. Parece claro que 2017 fue el año de los familiares abstractos con mecánicas principales de draft y construcción de patrones. Al laureado Azul y al precioso Dragon Castle hay que sumarle Sagrada, el único de los tres que vio la luz mediante una exitosa campaña de micromecenazgo. ¿Son los mismos juegos? Obviamente no, pero, salvo que seáis amantes de estas mecánicas u os encante estar constantemente probando juegos distintos, lo normal será que solo os hagáis con uno de los tres (si es que pertenecéis al grupo objetivo al que están destinados). Como curiosidad, la cronología nos dice que el juego que hoy nos ocupa fue el primero en ver la luz durante ese 2017. Sin embargo, ha sido el último en llegar a las tiendas ¿Será esto una desventaja? Vamos a verlo, no sin antes agradecer a Devir la cesión de la copia que posibilita esta tochorreseña.
+38. Sagrada, como muchos supondréis, está relacionada con la construcción de la Sagrada Familia de Barcelona, la obra inconclusa (de momento) de Antoni Gaudí. No es el primer título que, viniendo de autores foráneos, se ambienta en un monumento de nuestro país (ahí tenéis Alhambra). En él los jugadores interpretan a maestros artesanos del vidrio a los que les encargan crear una obra para encajar en la famosa basílica. Los materiales a utilizar se representan mediante dados de cinco colores que los jugadores deberán ir tomando de un suministro común para completar un tablero de cuatro filas y cinco columnas.
+39. Al comienzo de cada ronda, el jugador inicial extrae tantos dados como el doble del número de jugadores más uno, los lanza y los dispone en el centro de la mesa. Tras esto, cada jugador disfrutará de dos turnos de selección con rebote, esto es, primero en el sentido de las agujas del reloj (comenzando por el jugador inicial) y, a continuación, en el sentido contrario a las agujas del reloj (comenzando por el jugador sentado a la derecha del jugador inicial). De esta forma, el jugador inicial será el primero y el ultimo en escoger, mientras que el último jugador en el orden de turno resolverá sus dos turnos de forma consecutiva.
+40. Cada vez que un jugador escoja un dado, deberá colocarlo en un tablero personal troquelado que contiene una carta de patrón (escogida por el propio jugador al comienzo de la partida de entre cuatro posibilidades) que fijará una característica del dado en ciertas posiciones (color o valor). Adicionalmente, existen dos reglas de colocación básicas: cada dado deberá colocarse en una posición adyacente, ortogonal o diagonal, a una posición ocupada (con excepción del primer dado) y que dos dados ortogonalmente adyacentes no podrán compartir un mismo valor y/o color.
+41. Adicionalmente, en cada turno, el jugador podrá activar una de tres herramientas que permiten alterar ligeramente la situación de la partida, ya sea actuando sobre el valor de los dados o sobre los dados ya colocados en el tablero. Estas activaciones tendrán un coste en unos marcadores que se reciben al comienzo de la partida en función de la dificultad del patrón escogido para la vidriera. A mayor dificultad, más cantidad de marcadores para utilizar en las herramientas. Una vez que nos quedemos sin marcadores, esta opción dejará de estar disponible, así que hay que escoger cuidadosamente.
+42. Como guinda final, la puntuación de cada jugador dependerá no solo de haber completado de la mejor forma posible el patrón (cada hueco que no rellenemos restará un punto), sino que se dispondrá de una serie de objetivos, tanto públicos (para todos los jugadores) como privados (para cada jugador). Los primeros establecerán unas condiciones, de disposición o de colecciones, mientras que los segundos fijarán un color para el cual el jugador anotará como puntos los valores de los dados escogidos de dicho color.
+43. Y poco más. Como ya os he comentado en la introducción, Sagrada entra a competir directamente con juegos como Azul (aquí su tochorreseña) o Dragon Castle (aquí su tochorreseña). En los tres juegos tenemos un elemento que se encuentra inicialmente en un suministro común (fichas de baquelita en Azul y Dragon Castle, dados de baquelita en Sagrada). En turnos alternados, los jugadores irán escogiendo elementos de este suministro común para colocarlos en un tablero personal intentando conformar diversos patrones en función de los cuales se obtendrán más o menos puntos. La interacción entre los jugadores no va más allá del ir eliminando opciones del suministro común, por lo que el orden de turno tiene una especial relevancia a la hora de escoger.
+45. Afortunadamente, no son calcos entre ellos. En las distintas tochorreseñas enlazadas hablo de las virtudes (y defectos) de cada uno. Hagamos lo propio con el juego de las vidrieras. Sagrada tiene, en mi opinión, dos grandes puntos a favor sobre los juegos con los que compite. El primero es la duración de la partida. Sagrada tiene un numero de turnos definido e invariable. Sabes que en cada partida vas a disfrutar de 20 turnos (2 en cada una de las 10 rondas) para intentar encajar 20 dados en un tablero cuadriculado de la forma más óptima posible teniendo en cuenta una serie de objetivos. Dragon Castle dependía de que los jugadores fuesen agotando un enorme suministro de piezas, mientras que Azul depende de que uno de los jugadores decida pisar el acelerador para completar una fila. En ambos se delega en los participantes la finalización de la partida. No es que esto me parezca un aspecto negativo, pero si es cierto que, en este tipo de juegos, una duración más o menos definida, sin dependencias de los jugadores más allá del entreturno, encaja mejor con el público objetivo al que está destinado.
+46. El segundo aspecto positivo es la dificultad. Sagrada se encuentra en un punto medio entre lo restrictivo que es Azul, con ese doble paso a la hora de ir completando el patrón del tablero, y la libertad de Dragon Castle a la hora de ir tomando piezas. Los jugadores disfrutan de cierto margen a la hora de escoger los dados (especialmente en el primero de los dos turnos, aun con un buen número de dados en el suministro) que choca con lo complejo que resulta ir encajándolos en el patrón de la vidriera. Una dificultad que no procede de la complejidad mecánica, sino de la exigencia personal a la hora de optimizar la vidriera de cara a anotar el máximo de puntos.
+47. En este aspecto, el jugador sentirá como si tuviese dos voces en su interior a la hora de escoger y colocar. Una de ellas estará pendiente de los objetivos, mientras que la otra estará susurrándonos cada vez que vayamos a cometer una pifia al colocar un dado en una determinada posición. El problema lo encontramos cuando nos damos cuenta de que estas dos voces parece que comparten un mismo canal de comunicación y, mientras una habla, la otra está callada, y viceversa. A veces parece que lo hacen hasta queriendo. Cuando sea nuestro turno de escoger un dado, ahí estará ese yo interior centrado en la obtención de puntos, enfocando nuestra atención sobre los dados que nos faltan para completar los patrones. Sin embargo, una vez escogido el dado, llegamos a la vidriera y nos percatamos que dicho dado no puede ser colocado de forma adecuada, momento en el que la otra voz nos pega un grito.
+48. Si juntamos ambos puntos, Sagrada se descubre como un juego ligeramente más exigente que sus competidores. Hay dos pequeños puntos favorables, aunque no tan destacables como los anteriores. Como tercera ventaja, algo engañosa, encontramos la variabilidad que ofrecen los distintos objetivos y herramientas. Digo engañosas porque, al final, los objetivos son muy similares y apenas alterarán nuestra forma de jugar, mientras que las herramientas son un salvavidas para momentos especiales, y difícilmente las activaremos más de 3 o 4 veces durante una partida debido a su alto coste.
+49. Como último aspecto positivo destacable, es lo ágil que resulta a la hora de preparar la partida y realizar su mantenimiento ronda a ronda. En Sagrada lo único que hay que hacer cada turno es sacar un numero de dados de una bolsa y lanzarlos. Tras resolver los turnos, se pasa la bolsa al siguiente jugador y se repite el proceso. En Dragon Castle había que preparar un señor castillo de piezas de baquelita, mientras que en Azul tenemos que estar constantemente moviendo piezas de la bolsa a las factorías, de las factorías a los tableros, y de los tableros a la caja hasta que la bolsa se acabe y se vuelvan a introducir todas las piezas en el tablero.
+50. Obviamente, no todo van a ser alabanzas. Sagrada no es perfecto. A lo ya comentado de una variabilidad de mentirijilla, hay que sumarle el factor azar, mucho menos presente en Azul y Dragon Castle, algo que es una perogrullada al incluir dados en el draft, pero no por ello menos cierto. Esto se debe a que en Sagrada nosotros evaluamos 2 características sobre el elemento a escoger, mientras que en Azul y Dragon Castle solo nos fijamos en un parámetro. Ambos parámetros son aleatorios. Pero, mientras que con uno podemos jugar estadísticamente (sabemos cuántos elementos hay de cada color en la bolsa y cuantos han salido ya), para el otro, el valor de los dados, dependemos de los caprichos de la Diosa Fortuna. Si lo enlazamos con que los patrones y los objetivos exigen en muchas ocasiones valores concretos, ya vislumbramos el problema. Si tenemos mala suerte y somos el último jugador en el orden de turno, podemos encontrarnos con que nada de lo que hay en el suministro nos vale para puntuar más allá de rellenar el hueco para no perder puntos al final de la partida. Esta doble influencia del azar (colores de los dados y valores de los mismos) puede enervar a más de uno.
+51. También es un juego que puede generar una mayor parálisis por análisis al abrir la puerta a jugar con las reglas básicas del juego al incluir las herramientas. Los que ya le hayan echado algunas partidas se encontrarán en situaciones en las que, mediante un uso inteligente de una herramienta podrán optar a escoger dados que inicialmente les estaban vedados. Esto puede ralentizar ligeramente la partida, pero no suele ser algo extremo al tener tan limitado el uso de las herramientas. Pero que sirva de advertencia si vamos a sentar en la mesa jugadores demasiado analíticos, ya que este tipo de juegas se disfrutan si el ritmo de partida es más o menos constante. Un parón en el discurrir de los turnos puede suponer la ruina de la experiencia de juego.
+52. También puede suponer un engorro el tema de revisar la vidriera de un rival, especialmente cuando hay en juego herramientas que permiten «saltarse» las normas de adyacencia. Sería conveniente anotar de alguna forma que un jugador utilizó esta herramienta para recordarlo al final de la partida.
+53. En cuanto a la escalabilidad, Sagrada puede que sea el que mejor funciona de los tres gracias a ese exigente reto personal que va más allá del draft. Más de una vez los intereses de los jugadores ni se cruzarán. De hecho, el juego incluye un modo en solitario que, aunque no he probado, no tiene mala pinta.
+54. En cuanto a la rejugabilidad, no la veo mucho más potente que en los juegos con los que se ha comparado. Como ya he dicho, los objetivos y las herramientas se me antojan demasiado similares y las sensaciones no varían especialmente de una partida a otra. En este sentido, Dragon Castle sigue siendo el que más vida aparenta poseer.
+55. Tras todo lo dicho anteriormente, la pregunta surge sola. Si no tengo ninguno de los tres y esto interesado en un diseño de este tipo (abstracto familiar de duración ajustada). ¿Es Sagrada el que debo comprarme? La respuesta, obviamente, es depende. Será afirmativa si somos jugadores que disfrutamos de los retos y de los puzles, siendo, a mi parecer, el más exigente de los tres. Si además odiamos realizar cualquier tipo de mantenimiento o las preparaciones de partidas tediosas, la elección está clara. Si buscamos algo más familiar o con mayor recorrido, entonces os recomiendo que os leáis las tochorreseñas de los dos contrincantes a los que se ha enfrentado el juego que hoy nos ocupa.
+56. Pasemos a la edición. Nos encontramos con unos acabados de muy buen nivel, destacando los tableros vidriera, con planchas, una de ellas troquelada para encajar los dados y poder introducir la carta de patrón por una ranura entre ambas planchas. Contrasta con el tablero de puntuación, de un grosor demasiado fino, aunque esto no afecta al desarrollo de la partida. Los dados de baquelita translucida son estándar y, aunque muestran un buen acabado, se les puede sacar una pequeña pega. Según las condiciones de iluminación, los dados de color azul y verde cuesta distinguirlos, tanto a la hora de escoger del suministro común como a la hora de fiscalizar las vidrieras de otros jugadores para comprobar que no incurren en ninguna irregularidad. Las cartas son de un gramaje normalito, con una respuesta elástica aceptable y un acabado liso que no requiere enfundado porque apenas se barajan ni manosean. Por último, los marcadores de cristal, que son también los habituales. El reglamento es claro y conciso, y no deja lugar a dudas tras una primera lectura.
+57. En el apartado artístico, los ilustradores no tienen mucho trabajo en este tipo de juegos abstractos. Sin embargo, el señor Wocken se afana en ofrecernos una portada más que atractiva (de esas que te incitan a coger la caja de la estantería en la tienda. También destacan los tableros de vidriera, en los cuales hay mucho más espacio ornamental que usable para el juego. Este espacio simula un gran arco ojival con una vidriera circular en su zona superior. Como pequeña critica, estas vidrieras muestran un degradado de colores que complica la identificación del color con el marcador de puntuación. Es una nimiedad, pero ahí está.
+59. Y vamos cerrando. Sagrada es un abstracto de corte familiar con mecánica principal de draft y construcción de patrones. Los jugadores deben conformar una vidriera con 20 dados escogidos de un suministro común en el que compiten con el resto de jugadores intentando ganar el máximo de puntos posible según ciertos objetivos. Ligeramente más exigente que juegos similares aparecidos en el mismo año, pero con un factor de azar también sutilmente más elevado. La variabilidad es engañosa, ofreciendo sensaciones similares a pesar de cambiar objetivos y otros elementos. A destacar también como virtud su duración ajustada, no dependiendo de los jugadores cuando ocurre el final de la partida. Por todo esto le doy un…
+61. Me quedo con Dragon castle, será que jugaba a Majong y eso me puede jijiji
+Si los ordeno por preferencias sería Dragon castle, sagrada y azul
+62. Por cierto  cuando pinchas en el enlace para ir a la reseña de Dragon castle sale otro juego
+63. Voy a corregirlo ahora mismo! Muchas gracias!
+64. gracias por esta nueva reseña.
+Me ha parecido perfecta y muy bien resuelta.
+En casa tenemos los tres juegos, y el que nos gusta es azul, aunque este verano ha sido sagrado, nos ha parecido todo un acierto con su compra.
+muy recomendable la compra de este juego.
+65. A mi personalmente el Sagrada no me convencio,  aunque las reglas son muy sencillas, es facil despistarse e incumplir alguna condicion en la vidriera.
+El paso final de que otro jugador compruebe tu vidriera me parece un paso muy engorroso entre mirar los dados y colores ( dependiendo de la luz que haya los dados verdes y azules puede costar diferenciarlos), pero sobre todo comprobar que se cumple el patron elegido inicialmente. A esto hay que sumarle que con herramientas se puede liar mas la revision,  como con la de mover un dado ignorando restricciones de color… que luego tienes que acordarte exactamente del dado que fue el jugador que revise tu vidriera te lo tendra que preguntar etc…
+Personalmente estas cosas hacen que prefiera jugar al azul mas que a este Sagrada , cuando me pueda apetecer este target de juegos. El Dragon Castle no lo he provado asi que no puedo compararlo.
+66. Tienes razón en lo de las herramientas que permiten incumplir las normas. No lo he comentado y me parece algo interesante a remarcar. Un saludo y gracias!
+67. Buenas Iván, genial tochorreseña que me ha venido estupenda porque tengo pensado comprar Azul, pero estos últimos días me he interesado por Sagrada y me llama poderosamente la atención. Teniendo en cuenta que Azul caerá seguro, ¿crees que ambos juegos en la misma colección se pisan? (Se trata de una colección pequeña de unos 60 juegos y muy selectiva).
+68. De Sagrada también me llama la atención la expansión que saldrá en la que se podrá jugar a 5 ó 6 jugadores. Pero me temo que lo de la revisión de los tableros de cada jugador teniendo en cuenta lo de los dados azules y verdes, puede hacer el final de partida un infierno a más de 4 jugadores.
+69. Un saludo!
+70. Si Azul va a caer sí o sí, yo creo que se pisan un poco. Las sensaciones son similares. Si quieres ser selectivo, yo me quedaria solo con uno.
+71. Pues ese dinero que me ahorro y a la hucha para Everdell o alguno de los italianos que llegan este año. A ver si catáis alguno y en la nueva temporada de Más madera nos dais unas pinceladas de lo que se nos viene encima.
+72. Gracias Iván!
+73. Yo el everdell ya le eche unas cuantas partidas, es muy vistoso y bastante entretenido. Es más ligero de decisiones que gran Austria, Lorenzo…
+74. Pues entra en el radar, últimamente buscamos juegos algo más ligeros, rollo viticulture básico, para jugar con algunos amigos y familiares que se están aficionando pero van poco a poco. Aunque también he de decir que Gran Austria es nuestro favorito a dos. Si es algo más ligero no nos importa, para rompernos la cabeza tenemos otros, pero al final salen más a mesa juegos más ligeros.
+75. Gracias por la info!!
+76. Muy buena la reseña, nosotros tenemos los tres y cada uno tiene su momento jj. Una duda con una de las cartas de objetivo, la que puntúa por las diagonales, se cuentan el número de dados que hay en la diagonal (pongamos 3) o el valor que marca cada dado (pongamos 6,5,5) , ayer lo estrenamos y puntuamos según el valor de los dados pero no lo tengo muy claro
+77. Yo entiendo que lo que puntas es el número de dados, independientemente del color. Si no, sería un objetivo demasiado potente. Ten en cuenta que se evalúan todos los colores.
+78. Es que al principio lo interpreté que era sumando los valores del dado, pero la verdad que haciendo así se disparan mucho las puntuaciones, por eso preguntaba, gracias
+79. Hola! Muchas gracias por la reseña.
+Me lo acaban de regalar y, a lo mejor es porque aún es la primera vez, pero nos ha costado mucho encontrar una explicación a cada carta objetivo. Ya sea por falta de claridad, (o por nosotros mismos que no lo hemos captado bien)… El caso que no sabíamos usarlas o incluso nos hemos quedado sin dados para hacer el cambio…
+Sabéis algún sitio donde encontrar la explicación carta por carta? O más extensamente?
+80. Pues he estado mirando y la verdad es que no he encontrado una hoja de ayuda de explicación de las cartas. En la BGG (BoardGameGeek.com) puede que haya hilos (en inglés) que resuelvan las dudas que tenéis.
+81. Saludos.
+82. Este juego para mi es uno de los mejores adquisiciones que tengo en mi armario. Y es que además de tener una presentación tan cuidada con los esos dados de color translucido, es un juego sencillo aparentemente por su mecánica pero que presenta un reto mental cuyo limite de complejidad lo pones tu al elegir tu la vidriera a construir. Por ello tiene una variedad y una rejugabilidad bastante interesante. De todos.los.que tenemos en  casa, es de los que mas repetimos.
+83. Gracias por la reseña Iván.
+Que opinas de las expansiones pasión, Gloria y vida?
+Feliz año desde Colombia.
+84. Pues desgraciadamente no tengo opinión porque no las he jugado. Lo siento. Feliz año!!!
+85. Cada expansion añade cosas interesantes,
+Gloria es Genial, creo que es la que más modulos añade.
+86. Ofrece objetivos de pionero que hace que los jugadores compitan entre si para ver quien los gana primero,
+87. Añade herramientas, objetivos privados y publicos, dandole mayor variabilidad
+88. Los dados grises generan un nuevo reto, no solo en objetivos sino también en restricciones
+89. Las cartas de adorno son interesantes, dando puntos si se consigue cumplir pero restando los mismos si no alcanzamos los que seleccionamos.
+90. Existen objetivos en competencia, que solo puntua a los tres jugadores que más generan en relacion a lo solicitado en la carta.
+91. De las tres expansiones personalmente Gloria es la que más me gusta, por las capas de competencia y de complejidad que añade.
+SI tienes la oportunidad pruebala, nosotros ya no jugamos sagrada sin ella.
+92. Tu dirección de correo electrónico no será publicada. Los campos obligatorios están marcados con *
+93. Comentario *
+94. Nombre *
+95. Correo electrónico *
+96. Web
+97. Recibir un correo electrónico con los siguientes comentarios a esta entrada.
+98. Recibir un correo electrónico con cada nueva entrada.
+101. Δ
+102. Ahora podrás recibir en tu correo electrónico las entradas publicadas en este blog.
+103. Dirección de correo electrónico
+104. Suscribir
+105. Misut Meeple © 2025
+
+
+Palabras en negrita:
+
+- Sagrada
+- de 1 a 4 jugadores
+- edad mínima sugerida de 14 años
+- duración aproximada de entre 30 y 45 minutos
+- precio de venta al público es de 40€
+- Importante
+- Opinión
+- Contenido
+- Mecánica
+- Sagrada
+- Dados
+- Tablero de Vidriera
+- Cartas de Patrón
+- Cartas de Herramienta
+- Marcadores de Favor
+- Carta de Objetivo Privado
+- Cartas de Objetivo Público
+- Tablero de Ronda
+- Sagrada
+- Fase I: Lanzamiento de Dados
+- Fase II: Turnos
+- Seleccionar 1 Dado del Suministro
+- Utilizar una Carta de Herramienta
+- Fase III: Mantenimiento
+- Juego en Solitario
+- Sagrada
+- Sagrada
+- Sagrada
+- Sagrada
+- Sagrada
+- Sagrada
+- Sagrada
+- Sagrada
+- Sagrada
+- Sagrada
+- Sagrada
+- Sagrada
+- Sagrada
+- Sagrada
+- Sagrada
+
+
+URLs de Imágenes encontradas:
+
+Imagen 1: https://i0.wp.com/misutmeeple.com/wp-content/uploads/2018/08/sagrada_portada.jpg?resize=1200%2C801&ssl=1
+Imagen 2: https://i0.wp.com/misutmeeple.com/wp-content/uploads/2018/08/sagrada_contraportada.jpg?resize=1200%2C801&ssl=1
+Imagen 3: https://i0.wp.com/misutmeeple.com/wp-content/uploads/2018/08/sagrada_contenido.jpg?resize=1200%2C394&ssl=1
+Imagen 4: https://i0.wp.com/misutmeeple.com/wp-content/uploads/2018/08/sagrada_dados.jpg?resize=1200%2C246&ssl=1
+Imagen 5: https://i0.wp.com/misutmeeple.com/wp-content/uploads/2018/08/sagrada_tablero_vidriera.jpg?resize=1200%2C823&ssl=1
+Imagen 6: https://i0.wp.com/misutmeeple.com/wp-content/uploads/2018/08/sagrada_cartas_patron.jpg?resize=1200%2C305&ssl=1
+Imagen 7: https://i0.wp.com/misutmeeple.com/wp-content/uploads/2018/08/sagrada_cartas_herramienta.jpg?resize=1200%2C354&ssl=1
+Imagen 8: https://i0.wp.com/misutmeeple.com/wp-content/uploads/2018/08/sagrada_marcadores_favor.jpg?resize=1200%2C273&ssl=1
+Imagen 9: https://i0.wp.com/misutmeeple.com/wp-content/uploads/2018/08/sagrada_cartas_objetivos_privados.jpg?resize=1200%2C280&ssl=1
+Imagen 10: https://i0.wp.com/misutmeeple.com/wp-content/uploads/2018/08/sagrada_cartas_objetivos_publicos.jpg?resize=1200%2C346&ssl=1
+Imagen 11: https://i0.wp.com/misutmeeple.com/wp-content/uploads/2018/08/sagrada_tablero_puntuacion_ronda.jpg?resize=1200%2C665&ssl=1
+Imagen 12: https://i0.wp.com/misutmeeple.com/wp-content/uploads/2018/08/sagrada_partida_preparada.jpg?resize=1200%2C559&ssl=1
+Imagen 13: https://i0.wp.com/misutmeeple.com/wp-content/uploads/2018/08/sagrada_detalle_dados.jpg?resize=1200%2C610&ssl=1
+Imagen 14: https://i0.wp.com/misutmeeple.com/wp-content/uploads/2018/08/sagrada_detalle_objetivo.jpg?resize=1200%2C579&ssl=1
+Imagen 15: https://i0.wp.com/misutmeeple.com/wp-content/uploads/2018/08/sagrada_detalle_rondas.jpg?resize=1200%2C688&ssl=1
+Imagen 16: https://i0.wp.com/misutmeeple.com/wp-content/uploads/2018/08/sagrada_detalle_puntuacion.jpg?resize=1200%2C581&ssl=1
+Imagen 17: https://i0.wp.com/misutmeeple.com/wp-content/uploads/2018/08/sagrada_detalle_tablero.jpg?resize=1200%2C598&ssl=1
+Imagen 18: https://i0.wp.com/misutmeeple.com/wp-content/uploads/2018/08/sagrada_detalle_herramienta.jpg?resize=1200%2C756&ssl=1
+Imagen 19: https://i0.wp.com/misutmeeple.com/wp-content/uploads/2018/08/sagrada_detalle_vidriera.jpg?resize=1200%2C712&ssl=1
+Imagen 20: https://i0.wp.com/misutmeeple.com/wp-content/uploads/2018/09/Misut-Meeple-Sello-Notable-2.0-380.png?w=1200&ssl=1
+
+
+Comentarios:
+
+1. AUTOR: Vanessa
+COMENTARIO: Me quedo con Dragon castle, será que jugaba a Majong y eso me puede jijiji
+Si los ordeno por preferencias sería Dragon castle, sagrada y azulPor cierto  cuando pinchas en el enlace para ir a la reseña de Dragon castle sale otro juego
+
+2. AUTOR: iMisut
+COMENTARIO: Voy a corregirlo ahora mismo! Muchas gracias!
+
+3. AUTOR: josu
+COMENTARIO: gracias por esta nueva reseña.
+Me ha parecido perfecta y muy bien resuelta.
+En casa tenemos los tres juegos, y el que nos gusta es azul, aunque este verano ha sido sagrado, nos ha parecido todo un acierto con su compra.
+muy recomendable la compra de este juego.
+
+4. AUTOR: Gargulean
+COMENTARIO: A mi personalmente el Sagrada no me convencio,  aunque las reglas son muy sencillas, es facil despistarse e incumplir alguna condicion en la vidriera.
+El paso final de que otro jugador compruebe tu vidriera me parece un paso muy engorroso entre mirar los dados y colores ( dependiendo de la luz que haya los dados verdes y azules puede costar diferenciarlos), pero sobre todo comprobar que se cumple el patron elegido inicialmente. A esto hay que sumarle que con herramientas se puede liar mas la revision,  como con la de mover un dado ignorando restricciones de color… que luego tienes que acordarte exactamente del dado que fue el jugador que revise tu vidriera te lo tendra que preguntar etc…
+Personalmente estas cosas hacen que prefiera jugar al azul mas que a este Sagrada , cuando me pueda apetecer este target de juegos. El Dragon Castle no lo he provado asi que no puedo compararlo.
+
+5. AUTOR: iMisut
+COMENTARIO: Tienes razón en lo de las herramientas que permiten incumplir las normas. No lo he comentado y me parece algo interesante a remarcar. Un saludo y gracias!
+
+6. AUTOR: Luis
+COMENTARIO: Buenas Iván, genial tochorreseña que me ha venido estupenda porque tengo pensado comprar Azul, pero estos últimos días me he interesado por Sagrada y me llama poderosamente la atención. Teniendo en cuenta que Azul caerá seguro, ¿crees que ambos juegos en la misma colección se pisan? (Se trata de una colección pequeña de unos 60 juegos y muy selectiva).De Sagrada también me llama la atención la expansión que saldrá en la que se podrá jugar a 5 ó 6 jugadores. Pero me temo que lo de la revisión de los tableros de cada jugador teniendo en cuenta lo de los dados azules y verdes, puede hacer el final de partida un infierno a más de 4 jugadores.Un saludo!
+
+7. AUTOR: iMisut
+COMENTARIO: Si Azul va a caer sí o sí, yo creo que se pisan un poco. Las sensaciones son similares. Si quieres ser selectivo, yo me quedaria solo con uno.
+
+8. AUTOR: Luis
+COMENTARIO: Pues ese dinero que me ahorro y a la hucha para Everdell o alguno de los italianos que llegan este año. A ver si catáis alguno y en la nueva temporada de Más madera nos dais unas pinceladas de lo que se nos viene encima.Gracias Iván!
+
+9. AUTOR: Gargulean
+COMENTARIO: Yo el everdell ya le eche unas cuantas partidas, es muy vistoso y bastante entretenido. Es más ligero de decisiones que gran Austria, Lorenzo…
+
+10. AUTOR: Luis
+COMENTARIO: Pues entra en el radar, últimamente buscamos juegos algo más ligeros, rollo viticulture básico, para jugar con algunos amigos y familiares que se están aficionando pero van poco a poco. Aunque también he de decir que Gran Austria es nuestro favorito a dos. Si es algo más ligero no nos importa, para rompernos la cabeza tenemos otros, pero al final salen más a mesa juegos más ligeros.Gracias por la info!!
+
+11. AUTOR: Tere
+COMENTARIO: Muy buena la reseña, nosotros tenemos los tres y cada uno tiene su momento jj. Una duda con una de las cartas de objetivo, la que puntúa por las diagonales, se cuentan el número de dados que hay en la diagonal (pongamos 3) o el valor que marca cada dado (pongamos 6,5,5) , ayer lo estrenamos y puntuamos según el valor de los dados pero no lo tengo muy claro
+
+12. AUTOR: iMisut
+COMENTARIO: Yo entiendo que lo que puntas es el número de dados, independientemente del color. Si no, sería un objetivo demasiado potente. Ten en cuenta que se evalúan todos los colores.
+
+13. AUTOR: Tere30
+COMENTARIO: Es que al principio lo interpreté que era sumando los valores del dado, pero la verdad que haciendo así se disparan mucho las puntuaciones, por eso preguntaba, gracias
+
+14. AUTOR: Victoria
+COMENTARIO: Hola! Muchas gracias por la reseña.
+Me lo acaban de regalar y, a lo mejor es porque aún es la primera vez, pero nos ha costado mucho encontrar una explicación a cada carta objetivo. Ya sea por falta de claridad, (o por nosotros mismos que no lo hemos captado bien)… El caso que no sabíamos usarlas o incluso nos hemos quedado sin dados para hacer el cambio…
+Sabéis algún sitio donde encontrar la explicación carta por carta? O más extensamente?
+
+15. AUTOR: iMisut
+COMENTARIO: Pues he estado mirando y la verdad es que no he encontrado una hoja de ayuda de explicación de las cartas. En la BGG (BoardGameGeek.com) puede que haya hilos (en inglés) que resuelvan las dudas que tenéis.Saludos.
+
+16. AUTOR: Rynthbarim
+COMENTARIO: Este juego para mi es uno de los mejores adquisiciones que tengo en mi armario. Y es que además de tener una presentación tan cuidada con los esos dados de color translucido, es un juego sencillo aparentemente por su mecánica pero que presenta un reto mental cuyo limite de complejidad lo pones tu al elegir tu la vidriera a construir. Por ello tiene una variedad y una rejugabilidad bastante interesante. De todos.los.que tenemos en  casa, es de los que mas repetimos.
+
+17. AUTOR: Alfonso
+COMENTARIO: Gracias por la reseña Iván.
+Que opinas de las expansiones pasión, Gloria y vida?
+Feliz año desde Colombia.
+
+18. AUTOR: iMisut
+COMENTARIO: Pues desgraciadamente no tengo opinión porque no las he jugado. Lo siento. Feliz año!!!
+
+19. AUTOR: Tay
+COMENTARIO: Cada expansion añade cosas interesantes,
+Gloria es Genial, creo que es la que más modulos añade.Ofrece objetivos de pionero que hace que los jugadores compitan entre si para ver quien los gana primero,Añade herramientas, objetivos privados y publicos, dandole mayor variabilidadLos dados grises generan un nuevo reto, no solo en objetivos sino también en restriccionesLas cartas de adorno son interesantes, dando puntos si se consigue cumplir pero restando los mismos si no alcanzamos los que seleccionamos.Existen objetivos en competencia, que solo puntua a los tres jugadores que más generan en relacion a lo solicitado en la carta.De las tres expansiones personalmente Gloria es la que más me gusta, por las capas de competencia y de complejidad que añade.
+SI tienes la oportunidad pruebala, nosotros ya no jugamos sagrada sin ella.
+
+
+
+Elementos de listas:
+
+- Reseñas
+- Crónicas Jugonas
+- Tops
+- Contacto
+- 4 Tableros de Vidriera (de cartón)
+- 90 Dados de 6 Caras (18 de cada color: amarillo, morado, rojo, verde y azul) (de baquelita)
+- Tablero de Rondas/Puntuación (de cartón)
+- 24 Marcadores de Favor (de cristal)
+- 4 Marcadores de Puntuación (de cartón)
+- Bolsa para Dados (de tela)
+- 12 Cartas de Patrón de Vidriera
+- 12 Cartas de Herramienta (63,5×88 mm.)
+- 10 Cartas de Objetivos Públicos (63,5×88 mm.)
+- 5 Cartas de Objetivos Privados (63,5×88 mm.)
+- Reglamento
+- Seleccionar 1 Dado del Suministro. El jugador escoge un dado de los disponibles y lo coloca sobre su tablero de vidriera en un espacio adyacente (ortogonal o diagonalmente) a algún dado ya colocado. Como excepción, el primer dado del primer turno deberá colocarse en un espacio del borde de la vidriera.
+- Utilizar una Carta de Herramienta. El jugador puede activar una de las herramientas disponibles utilizando marcadores de favor. Si la carta no contiene ningún marcador de favor, podrá activarse empleando 1 marcador de favor. Por contra, si ya contiene algún marcador de favor, entonces el jugador deberá emplear 2 marcadores de favor para activarla.
+- El dado sobrante (o uno de los sobrantes) se coloca sobre el siguiente espacio libre para marcar la ronda. Si sobraron más dados, se retiran de la partida.
+- Se pasa la bolsa al jugador de la izquierda, que se convierte en el nuevo jugador inicial.
+- Gana los puntos correspondientes a los objetivos públicos.
+- Gana los puntos correspondientes al objetivo privado.
+- Gana 1 Punto por cada marcador de favor que aun posea.
+- Pierde 1 punto por cada espacio libre en el tablero de vidriera.
+- Reseñas
+- Crónicas Jugonas
+- Tops
+- Contacto
+- Se meten todos los dados en la bolsa.
+- Se coloca el tablero de rondas en el centro de la mesa.
+- Se mezclan las cartas de herramienta y se revelan 3 en el centro de la mesa (el resto se devuelven a la caja).
+- Se mezclan las cartas de objetivo y se revelan 3 en el centro de la mesa (el resto se devuelven a la caja).
+- Cada jugador escoge un color y recibe un marcador de puntuación y un tablero de vidriera.
+- Se mezclan las cartas de patrón y se reparten 2 a cada jugador.
+- Se forma una reserva de marcadores de favor.
+- Ahora, cada jugador escoge una de las dos cartas por una de sus caras, toma tantos marcadores de favor como se indique en ella y la introduce en la abertura del tablero de vidriera. La otra carta se devuelve a la caja, junto al resto de marcadores de favor.
+- Por último, se escoge al jugador inicial de forma aleatoria (o el ultimo que haya visitado una catedral).
+- Vanessa dice:
+22/08/2018 a las 08:18Me quedo con Dragon castle, será que jugaba a Majong y eso me puede jijiji
+Si los ordeno por preferencias sería Dragon castle, sagrada y azulPor cierto  cuando pinchas en el enlace para ir a la reseña de Dragon castle sale otro juegoResponder
+
+ iMisut dice:
+22/08/2018 a las 08:24Voy a corregirlo ahora mismo! Muchas gracias!
+- iMisut dice:
+22/08/2018 a las 08:24Voy a corregirlo ahora mismo! Muchas gracias!
+- josu dice:
+22/08/2018 a las 08:33gracias por esta nueva reseña.
+Me ha parecido perfecta y muy bien resuelta.
+En casa tenemos los tres juegos, y el que nos gusta es azul, aunque este verano ha sido sagrado, nos ha parecido todo un acierto con su compra.
+muy recomendable la compra de este juego.Responder
+- Gargulean dice:
+22/08/2018 a las 09:41A mi personalmente el Sagrada no me convencio,  aunque las reglas son muy sencillas, es facil despistarse e incumplir alguna condicion en la vidriera.
+El paso final de que otro jugador compruebe tu vidriera me parece un paso muy engorroso entre mirar los dados y colores ( dependiendo de la luz que haya los dados verdes y azules puede costar diferenciarlos), pero sobre todo comprobar que se cumple el patron elegido inicialmente. A esto hay que sumarle que con herramientas se puede liar mas la revision,  como con la de mover un dado ignorando restricciones de color… que luego tienes que acordarte exactamente del dado que fue el jugador que revise tu vidriera te lo tendra que preguntar etc…
+Personalmente estas cosas hacen que prefiera jugar al azul mas que a este Sagrada , cuando me pueda apetecer este target de juegos. El Dragon Castle no lo he provado asi que no puedo compararlo.Responder
+
+ iMisut dice:
+22/08/2018 a las 09:53Tienes razón en lo de las herramientas que permiten incumplir las normas. No lo he comentado y me parece algo interesante a remarcar. Un saludo y gracias!
+- iMisut dice:
+22/08/2018 a las 09:53Tienes razón en lo de las herramientas que permiten incumplir las normas. No lo he comentado y me parece algo interesante a remarcar. Un saludo y gracias!
+- Luis dice:
+22/08/2018 a las 10:41Buenas Iván, genial tochorreseña que me ha venido estupenda porque tengo pensado comprar Azul, pero estos últimos días me he interesado por Sagrada y me llama poderosamente la atención. Teniendo en cuenta que Azul caerá seguro, ¿crees que ambos juegos en la misma colección se pisan? (Se trata de una colección pequeña de unos 60 juegos y muy selectiva).De Sagrada también me llama la atención la expansión que saldrá en la que se podrá jugar a 5 ó 6 jugadores. Pero me temo que lo de la revisión de los tableros de cada jugador teniendo en cuenta lo de los dados azules y verdes, puede hacer el final de partida un infierno a más de 4 jugadores.Un saludo!Responder
+
+ iMisut dice:
+22/08/2018 a las 10:42Si Azul va a caer sí o sí, yo creo que se pisan un poco. Las sensaciones son similares. Si quieres ser selectivo, yo me quedaria solo con uno.
+
+
+ Luis dice:
+22/08/2018 a las 11:07Pues ese dinero que me ahorro y a la hucha para Everdell o alguno de los italianos que llegan este año. A ver si catáis alguno y en la nueva temporada de Más madera nos dais unas pinceladas de lo que se nos viene encima.Gracias Iván!
+
+
+ Gargulean dice:
+22/08/2018 a las 12:23Yo el everdell ya le eche unas cuantas partidas, es muy vistoso y bastante entretenido. Es más ligero de decisiones que gran Austria, Lorenzo…
+
+
+ Luis dice:
+24/08/2018 a las 21:58Pues entra en el radar, últimamente buscamos juegos algo más ligeros, rollo viticulture básico, para jugar con algunos amigos y familiares que se están aficionando pero van poco a poco. Aunque también he de decir que Gran Austria es nuestro favorito a dos. Si es algo más ligero no nos importa, para rompernos la cabeza tenemos otros, pero al final salen más a mesa juegos más ligeros.Gracias por la info!!
+- iMisut dice:
+22/08/2018 a las 10:42Si Azul va a caer sí o sí, yo creo que se pisan un poco. Las sensaciones son similares. Si quieres ser selectivo, yo me quedaria solo con uno.
+- Luis dice:
+22/08/2018 a las 11:07Pues ese dinero que me ahorro y a la hucha para Everdell o alguno de los italianos que llegan este año. A ver si catáis alguno y en la nueva temporada de Más madera nos dais unas pinceladas de lo que se nos viene encima.Gracias Iván!
+- Gargulean dice:
+22/08/2018 a las 12:23Yo el everdell ya le eche unas cuantas partidas, es muy vistoso y bastante entretenido. Es más ligero de decisiones que gran Austria, Lorenzo…
+- Luis dice:
+24/08/2018 a las 21:58Pues entra en el radar, últimamente buscamos juegos algo más ligeros, rollo viticulture básico, para jugar con algunos amigos y familiares que se están aficionando pero van poco a poco. Aunque también he de decir que Gran Austria es nuestro favorito a dos. Si es algo más ligero no nos importa, para rompernos la cabeza tenemos otros, pero al final salen más a mesa juegos más ligeros.Gracias por la info!!
+- Tere dice:
+22/08/2018 a las 11:20Muy buena la reseña, nosotros tenemos los tres y cada uno tiene su momento jj. Una duda con una de las cartas de objetivo, la que puntúa por las diagonales, se cuentan el número de dados que hay en la diagonal (pongamos 3) o el valor que marca cada dado (pongamos 6,5,5) , ayer lo estrenamos y puntuamos según el valor de los dados pero no lo tengo muy claroResponder
+
+ iMisut dice:
+22/08/2018 a las 11:23Yo entiendo que lo que puntas es el número de dados, independientemente del color. Si no, sería un objetivo demasiado potente. Ten en cuenta que se evalúan todos los colores.
+
+
+ Tere30 dice:
+22/08/2018 a las 17:17Es que al principio lo interpreté que era sumando los valores del dado, pero la verdad que haciendo así se disparan mucho las puntuaciones, por eso preguntaba, gracias
+- iMisut dice:
+22/08/2018 a las 11:23Yo entiendo que lo que puntas es el número de dados, independientemente del color. Si no, sería un objetivo demasiado potente. Ten en cuenta que se evalúan todos los colores.
+- Tere30 dice:
+22/08/2018 a las 17:17Es que al principio lo interpreté que era sumando los valores del dado, pero la verdad que haciendo así se disparan mucho las puntuaciones, por eso preguntaba, gracias
+- Victoria dice:
+25/12/2022 a las 22:53Hola! Muchas gracias por la reseña.
+Me lo acaban de regalar y, a lo mejor es porque aún es la primera vez, pero nos ha costado mucho encontrar una explicación a cada carta objetivo. Ya sea por falta de claridad, (o por nosotros mismos que no lo hemos captado bien)… El caso que no sabíamos usarlas o incluso nos hemos quedado sin dados para hacer el cambio…
+Sabéis algún sitio donde encontrar la explicación carta por carta? O más extensamente?Responder
+
+ iMisut dice:
+25/12/2022 a las 23:13Pues he estado mirando y la verdad es que no he encontrado una hoja de ayuda de explicación de las cartas. En la BGG (BoardGameGeek.com) puede que haya hilos (en inglés) que resuelvan las dudas que tenéis.Saludos.
+- iMisut dice:
+25/12/2022 a las 23:13Pues he estado mirando y la verdad es que no he encontrado una hoja de ayuda de explicación de las cartas. En la BGG (BoardGameGeek.com) puede que haya hilos (en inglés) que resuelvan las dudas que tenéis.Saludos.
+- Rynthbarim dice:
+05/11/2023 a las 22:59Este juego para mi es uno de los mejores adquisiciones que tengo en mi armario. Y es que además de tener una presentación tan cuidada con los esos dados de color translucido, es un juego sencillo aparentemente por su mecánica pero que presenta un reto mental cuyo limite de complejidad lo pones tu al elegir tu la vidriera a construir. Por ello tiene una variedad y una rejugabilidad bastante interesante. De todos.los.que tenemos en  casa, es de los que mas repetimos.Responder
+- Alfonso dice:
+31/12/2023 a las 01:01Gracias por la reseña Iván.
+Que opinas de las expansiones pasión, Gloria y vida?
+Feliz año desde Colombia.Responder
+
+ iMisut dice:
+31/12/2023 a las 01:37Pues desgraciadamente no tengo opinión porque no las he jugado. Lo siento. Feliz año!!!
+
+
+ Tay dice:
+13/02/2024 a las 02:01Cada expansion añade cosas interesantes,
+Gloria es Genial, creo que es la que más modulos añade.Ofrece objetivos de pionero que hace que los jugadores compitan entre si para ver quien los gana primero,Añade herramientas, objetivos privados y publicos, dandole mayor variabilidadLos dados grises generan un nuevo reto, no solo en objetivos sino también en restriccionesLas cartas de adorno son interesantes, dando puntos si se consigue cumplir pero restando los mismos si no alcanzamos los que seleccionamos.Existen objetivos en competencia, que solo puntua a los tres jugadores que más generan en relacion a lo solicitado en la carta.De las tres expansiones personalmente Gloria es la que más me gusta, por las capas de competencia y de complejidad que añade.
+SI tienes la oportunidad pruebala, nosotros ya no jugamos sagrada sin ella.
+- iMisut dice:
+31/12/2023 a las 01:37Pues desgraciadamente no tengo opinión porque no las he jugado. Lo siento. Feliz año!!!
+- Tay dice:
+13/02/2024 a las 02:01Cada expansion añade cosas interesantes,
+Gloria es Genial, creo que es la que más modulos añade.Ofrece objetivos de pionero que hace que los jugadores compitan entre si para ver quien los gana primero,Añade herramientas, objetivos privados y publicos, dandole mayor variabilidadLos dados grises generan un nuevo reto, no solo en objetivos sino también en restriccionesLas cartas de adorno son interesantes, dando puntos si se consigue cumplir pero restando los mismos si no alcanzamos los que seleccionamos.Existen objetivos en competencia, que solo puntua a los tres jugadores que más generan en relacion a lo solicitado en la carta.De las tres expansiones personalmente Gloria es la que más me gusta, por las capas de competencia y de complejidad que añade.
+SI tienes la oportunidad pruebala, nosotros ya no jugamos sagrada sin ella.
+- iMisut dice:
+22/08/2018 a las 08:24Voy a corregirlo ahora mismo! Muchas gracias!
+- iMisut dice:
+22/08/2018 a las 09:53Tienes razón en lo de las herramientas que permiten incumplir las normas. No lo he comentado y me parece algo interesante a remarcar. Un saludo y gracias!
+- iMisut dice:
+22/08/2018 a las 10:42Si Azul va a caer sí o sí, yo creo que se pisan un poco. Las sensaciones son similares. Si quieres ser selectivo, yo me quedaria solo con uno.
+- Luis dice:
+22/08/2018 a las 11:07Pues ese dinero que me ahorro y a la hucha para Everdell o alguno de los italianos que llegan este año. A ver si catáis alguno y en la nueva temporada de Más madera nos dais unas pinceladas de lo que se nos viene encima.Gracias Iván!
+- Gargulean dice:
+22/08/2018 a las 12:23Yo el everdell ya le eche unas cuantas partidas, es muy vistoso y bastante entretenido. Es más ligero de decisiones que gran Austria, Lorenzo…
+- Luis dice:
+24/08/2018 a las 21:58Pues entra en el radar, últimamente buscamos juegos algo más ligeros, rollo viticulture básico, para jugar con algunos amigos y familiares que se están aficionando pero van poco a poco. Aunque también he de decir que Gran Austria es nuestro favorito a dos. Si es algo más ligero no nos importa, para rompernos la cabeza tenemos otros, pero al final salen más a mesa juegos más ligeros.Gracias por la info!!
+- iMisut dice:
+22/08/2018 a las 11:23Yo entiendo que lo que puntas es el número de dados, independientemente del color. Si no, sería un objetivo demasiado potente. Ten en cuenta que se evalúan todos los colores.
+- Tere30 dice:
+22/08/2018 a las 17:17Es que al principio lo interpreté que era sumando los valores del dado, pero la verdad que haciendo así se disparan mucho las puntuaciones, por eso preguntaba, gracias
+- iMisut dice:
+25/12/2022 a las 23:13Pues he estado mirando y la verdad es que no he encontrado una hoja de ayuda de explicación de las cartas. En la BGG (BoardGameGeek.com) puede que haya hilos (en inglés) que resuelvan las dudas que tenéis.Saludos.
+- iMisut dice:
+31/12/2023 a las 01:37Pues desgraciadamente no tengo opinión porque no las he jugado. Lo siento. Feliz año!!!
+- Tay dice:
+13/02/2024 a las 02:01Cada expansion añade cosas interesantes,
+Gloria es Genial, creo que es la que más modulos añade.Ofrece objetivos de pionero que hace que los jugadores compitan entre si para ver quien los gana primero,Añade herramientas, objetivos privados y publicos, dandole mayor variabilidadLos dados grises generan un nuevo reto, no solo en objetivos sino también en restriccionesLas cartas de adorno son interesantes, dando puntos si se consigue cumplir pero restando los mismos si no alcanzamos los que seleccionamos.Existen objetivos en competencia, que solo puntua a los tres jugadores que más generan en relacion a lo solicitado en la carta.De las tres expansiones personalmente Gloria es la que más me gusta, por las capas de competencia y de complejidad que añade.
+SI tienes la oportunidad pruebala, nosotros ya no jugamos sagrada sin ella.
+
+
+Leyendas de imágenes:
+
+- Portada
+- Tablero Vidriera
+- Cartas de Herramienta
+- Cartas de Objetivo Privado
+- Cartas de Objetivo Público
+- Tablero de Puntuación / Rondas
+- Detalle Suministro
+- Detalle Carta de Objetivo
+- Detalle Puntuación
+- Detalle Tablero
+- Detalle Herramienta

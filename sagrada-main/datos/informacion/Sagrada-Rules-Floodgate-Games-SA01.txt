@@ -1,0 +1,268 @@
+ARCHIVO ORIGINAL: Sagrada-Rules-Floodgate-Games-SA01.pdf
+URL: https://github.com/GrimaldiDamian/sagrada/blob/main/codigo/docx_pdfs/Sagrada-Rules-Floodgate-Games-SA01.pdf
+CONTENIDO:
+
+Eglomise Brush
+2
+Aurora Sagradis Luz Celestial
+Fractal Drops Mov ig e n a o n r y i n o g n e c o d l i o e r i n re y s o tr u ic r t w io i n n s dow
+12 Window Y
+p
+o
+l
+u
+ac
+m
+em
+us
+e
+t
+n
+o
+t
+b
+r
+e
+e
+y
+st r
+a
+i
+l
+c
+l
+t
+o
+io
+th
+n
+e
+s
+r
+Pattern Cards
+12 Tool Cards
+2
+(18 x g r 5 e C en ol , 9 o b 0 r l s u D – e i , c r p e e u d r , p y l e e l ) low, Dice Bag Obje 1 c 0 t i P v u e b C l Se i a ts c o r f 1 L d i & g 2 h s t v a S lu h e a s d a e ny s where
+4 P W la in y d er o w Bo F a r r a d m s e 4 Score Markers # S Su h m ad o e f s v a o l f u G es r o e n e n gr • e e P n r i d v i a c t e e
+5 Private
+24 Favor Tokens
+Objective
+Cards
+Pl 1 a - y e 4 rs M 30 in - u 4 te 5 s Age 13+ Round Track (front) STOP!
+Score Track (back)
+We’ll teach you how to play! Visit
+O Floodgategames.com/sagrada
+verview
+and watch a video explanation.
+You are an artist competing with fellow artists to Each round, players will take turns drafting from
+create the most beautiful stained glass window a pool of dice, placing these dice on their window.
+in the Sagrada Familia. Your glass pieces are Players must place them within the color and
+represented by dice, which have a color and a shade restrictions on their Window card, and never
+shade - indicated by the values on the dice (the have adjacent dice of the same color or value.
+lower the value the lighter the shade).
+After 10 rounds, players score points based on
+public and private objectives — the highest scoring
+artisan is the winner!
+Credits
+GAME DESIGNERS PLAYTESTING Nikhil Katarya, Andreea Adamescu, Tyler Anderson, Tanya Andrews,
+Daryl Andrews (@darylmandrews) Gina Angelea, Rob Baksh, Chris Bell, Steve Caires, Jen Farmer, Jon Gilmour, David
+Adrian Adamescu (@Aadrian131) Leung, Stephen Sauer, Emily Tinawi, Nate Anderson, Brian Schrier, Evan Pedersen,
+Josh Slivken, Michael Guigliano, Dan Marta, Samuel Bailey,
+GAME DEVELOPMENT Curtis Clark, Kelsy Clark, Karl Liggin, Raul Taveras, Jax
+Ben Harkins (@BenHarkins) Sperling, Benny Sperling, and the Game Artisans of Canada
+GRAPHIC DESIGN & ILLUSTRATION EDITING Emily Tinawi, Simon Rourke, David Castillo
+Peter Wocken Design LLC (@PeterWocken)
+Special Thanks to all of our Kickstarter Backers!
+PUBLISHED BY
+Floodgate Games (@FloodgateGames) Floodgate.games/sagrada
+v1.2
+P S G S
+layer etuP ame etuP
+1• Shuffle the Private Objective Cards (Gray die A• Place the Round Track near the center of the
+on the back) and give 1 to each player face down. play area.
+Players may secretly look at this card. B• Shuffle all of the Tool Cards and place 3 face up
+2• Give each player 2 random Window Pattern in the center of the play area.
+Cards and 1 Window Frame Player Board. C• Shuffle all of the Public Objective cards (Blue
+Each player selects 1 of the 4 Window Patterns to die on the back) and place 3 face up.
+play (front or back), the other card isn’t used.
+D• Place all 90 dice in the Dice Bag.
+NOte: Windows have varying difficulty from level 3
+E• Randomly select a player to be the Start Player
+(easiest) to 6 (hardest) as indicated near the name. and give them the Dice Bag. One suggested method
+Difficult windows give more Favor Tokens is whoever most recently visited a cathedral.
+3• Give each player the number of Favor Tokens
+Set aside all remaining Objective, Tool and Window
+indicated by the difficulty number on their card.
+Cards, they are not used during the game
+4• Slide the selected Window Pattern Card into the
+bottom of the Player Board.
+NOte: Setup is the same for 2, 3 or 4 players
+5• Place a Score Marker that matches the color of
+each player’s board next to the Round Track,
+these are used during eNd Game ScOriNG. A
+5
+2
+Eglomise Brush Grozing Pliers Lathekin
+2 1 4
+B
+Move any one die in your window After drafting,
+ignoring color restrictions increase or decrease the value Move exactly two dice, obeying
+You must obey all other of the drafted die by 1 all placement restrictions
+placement restrictions 1 may not change to 6, or 6 to 1
+NOte: This symbol is only used in Solo Play
+C
+5 Colu C m r o e l p n u e m C at n e o s d l w o co r it l h o V r n a s o r iety 2 Sets of L 1 i & gh 2 t v S al h u a es d a e n s ywhere 4 S C c et o o s l l o o o r f r o a n V n e y a w o r f h i e e e a r t e c y h
+D
+Victory Point (VP) value for
+each complete set of this type
+1
+4
+E
+3
+Luz Celestial
+G P d
+amePlay laciNG ice
+Each game of Sagrada is played over 10 rounds. When placing a die on a Window:
+Each round, the Start Player (the player with the • First die: Each player’s first die of the game must be
+Dice Bag) pulls dice out of the Dice Bag at random placed on an edge or corner space
+and rolls them. The number of dice pulled depends • Every other die must be adjacent to a previously
+on the number of players: placed die, touching diagonally (different row and
+2 Players - 5 Dice column) or orthogonally (same row or column)
+3 Players - 7 Dice • The die must match the color or value restriction
+4 Players - 9 Dice of the space. White spaces have no restrictions
+Example - A red space on the window may only be
+2 per player, plus 1 additional die
+filled by a red die (any value). A space showing a 3
+Once rolled, these dice form the Draft Pool.
+may only be filled by a die showing a 3 (any color)
+Beginning with the Start Player, each player takes a • Dice may never be placed orthogonally adjacent to
+turn in clockwise order. On a player’s turn, they may a die of the same color or the same value. Example
+perform each of the following actions in any order: - Two red dice or two dice showing a 3 may not be
+placed side by side
+• Select 1 die from the Draft Pool and place it in
+an open space on their Window Players may choose not to draft a die during their turn.
+• Use 1 Tool Card by spending Favor Tokens
+NOte: Any die may be placed on a white space as
+Each action is optional — A player may choose to
+long as all the above restrictions are obeyed
+perform both actions, only one action or pass their
+turn taking no actions.
+Turns proceed clockwise with each player taking
+a turn or passing. Example - Emily takes a turn (1),
+then Ben (2), then Mari (3) examPle: This Red 2 die has
+three spaces that meet all
+Ben 5 placement restrictions
+Fractal Drops
+2
+tiP: Try to avoid placing dice next to a matching space
+(such as a 2 die next to a 2 space or red die next to a red
+space) so a future die can still be placed in that space
+6 1 3 4
+t c & f t
+OOl ardS avOr OkeNS
+Players may spend Favor Tokens to gain a special
+Emily mari
+ability from 1 Tool Card during their turn:
+(Start Player)
+1. Place Favor Tokens on the Tool Card — 1 if
+Once the last player has completed their first turn,
+there aren’t any tokens on the card, otherwise
+the round continues in reverse order (counter-
+place 2.
+clockwise). Beginning with the last player,
+2. Use the ability listed on the Tool Card
+each player takes a second turn (selecting a second
+die from the Draft Pool, etc.) Example - Mari takes Players may choose not to use a Tool Card on
+her second turn (4), then Ben (5), then Emily (6) their turn.
+Once the Start Player has taken their second turn, Grozing Pliers
+1
+proceed to the eNd Of the rOuNd.
+tiP: Being the first to use each Tool Card costs
+t a h b e il i f t e i w es e b st e F c a o v m o e r m To o k r e e n u s s . e H fu ow l l e a v te e r r , i n To th ol e C g a a r m d e 1 i m nc a r y e o a f n s t o h e t A e o c f r d t h e r d a r a e n f d c t g r e r e a e d f a t t d o s in i e e 6 g t , b h , o y e r 1 v 6 a t l o u e 1
+as player’s Windows fill with dice.
+Fractal Drops
+e r S e
+Nd Of the OuNd cOriNG xamPle
+All remaining dice are placed on the Round This example uses the Public 1 2 3 4 5
+Objectives shown in Game SetuP and
+Track, covering the number space for the just
+this final Window.
+A
+completed round. If multiple dice remain (due
+Public Objectives
+B
+to players skipping a draft action) these do not
+Column Color Variety: 5 VP from
+cover additional number spaces. each of column 4 and 5, 10 VP total. C
+0 points for column 1 and 3 since
+they’re incomplete, 0 VP from column
+D
+2 since there’s a repeated green die.
+Light Shades: 2 VP for each set of Fractal Drops
+1-value & 2-value dice (1’s at B2, B4. 2’s at A3, D4, B5). 4 VP total
+for two pairs, the third 2-value die is not part of a pair and is not
+counted.
+Color Variety: Three sets of 1 of each color give 4 VP each, 12 VP
+total.
+The Dice Bag is passed clockwise to the next
+tiP: The number of Sets of a type will always be the count of dice
+player. This player is now the Start Player — with the fewest quantity of that type
+players then begin another round. Example - Ben is Private Objective: Shades of Purple would sum the values for
+now the start player for the second round purple dice (C1, C4, and A5), giving 5 + 6 + 6 = 17 VP total.
+Favor Token: 1 VP for each remaining. None remain so 0 VP.
+If this was the end of the 10th round, it is the end of Open Spaces: -1 VP for each open space (A1, B3, and C3), -3 VP total.
+the game — proceed to eNd Game ScOriNG. Total: 10 VP + 4 VP + 12 VP + 17 VP + 0 VP - 3 VP = 40 VP Total!
+d P m
+e G S ice lacemeNt iStakeS
+Nd ame cOriNG
+If a Player’s Window is ever found to break any of the placement
+The game ends at the end of the 10th round.
+restrictions, that player must immediately remove dice (of their
+choice) from their Window until all restrictions are obeyed. These
+1. Clear the dice off the Round Track and flip it dice are out of play and any resulting open spaces will count
+against their score as normal.
+over to the Score Track side.
+S P r
+OlO lay uleS
+2. Use each player’s Score Marker to track their
+position on the Score Track, flipping the marker if When playing Sagrada by yourself, you’re trying to beat a Target
+they exceed 50 points. Score. The Target Score is the sum of the values from all the dice
+on the Round Track at the end of the game.
+SetuP
+Each game is set up as normal with a few small changes:
+• Favor Tokens are not used.
+• 2 Public Objectives and 2 Private Objective are placed face up.
+• Place Tool Cards based on the level of difficulty you wish to play,
+between 1 Tool (Most Challenging) and 5 Tools (Easiest).
+Each player tallies their Victory Point total, gaining GamePlay
+points from: Each game is played as normal in 10 rounds, with a few small changes:
+• Each round, pull 4 dice from the Dice Bag and roll them.
+• Each Public Objective Card - Players may • Take 2 turns, choosing to draft and place a die (as normal) and/or use
+gain points from each card multiple times. a Tool Card, or pass.
+Row/Column-based objectives only score for
+tOOl cardS
+Eglomise Brush
+completed Rows/Columns (no open spaces). Tool Cards may be used only once by spending 2
+dice from the Draft Pool. To use a Tool Card place a
+die from the Draft Pool that matches the color shown on the top-left
+• Their Private Objective Card - Summing the of the Tool Card.
+values of their dice of the specified color.
+NOte: Each Tool Card may only be used once. Both the die spent
+and the Tool Card are now removed from play.
+• Favor Tokens - 1 Victory Point for each eNd Of the rOuNd Move any one die in your window
+ignoring color restrictions
+unspent token. c A a ll r e re t m o n ai o n t i c n h g a d n i g ce e a th re e p va la lu ce e d o o f n a n th y e d R ic o e. u I n f d no T d r i a c c e k r e a m s n ai oY np or l u a, m c m eum us e at sn o t lb er ,e e y s t t a a ri al c l t o i k o th n e s irn g
+Score Marker as a placeholder.
+• Players Lose 1 Victory Point for each open
+space on their window. eNd Game ScOriNG
+The game ends after the end of 10th round. Before flipping the Round
+Track, add up the Target Score.
+The player with the highest Victory Point
+• The Target Score is the sum of the values from all the dice on the
+total is the winner. Ties are broken by most Round Track. Dice used to pay for Tool Cards are not counted.
+points from Private Objectives, most remaining • Tally your Victory Point total as normal (selecting only one of the
+Favor Tokens, then finally by reverse player two Private Objectives), however, you lose 3 Victory Points for
+each open space.
+order in the final round.
+• If your Victory Point total is greater than the Target Score, you win!
+

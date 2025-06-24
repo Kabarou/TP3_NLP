@@ -1,0 +1,12 @@
+ARCHIVO ORIGINAL: Sagrada_solitaire_variant.docx
+URL: https://github.com/GrimaldiDamian/sagrada/blob/main/codigo/docx_pdfs/Sagrada_solitaire_variant.docx
+CONTENIDO:
+
+Sagrada solitaire variant	
+Set up is the same as the solo variant in the rulebook.  So the difficulty can be adjusted by your window and tools.  The difference is you do not necessarily have to place all remaining dice on the round track, depending on which dice were placed the prior round.
+
+On round 1, place both dice (or one die if you used a tool) on the round marker.
+Beginning with round 2, if one of your remaining dice is higher than both dice on the previous round marker, you only need to place that die.  The other is removed from the game.  If both of your dice are higher than either of the previous dice, then you can choose which die to place.  
+For example, if in the prior round you placed a 3 and 4, and this round you have a 3 and a 5, you can discard the 3 and only need to place the 5 on the round marker for this turn.
+If on the prior round you placed a 6, then this round you can just place the lowest remaining die on the round marker.
+If neither remaining die is higher than the previous round’s dice, then place them both.

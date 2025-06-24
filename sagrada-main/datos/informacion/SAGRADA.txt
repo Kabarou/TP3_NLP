@@ -1,0 +1,198 @@
+ARCHIVO ORIGINAL: SAGRADA.pdf
+URL: https://github.com/GrimaldiDamian/sagrada/blob/main/codigo/docx_pdfs/SAGRADA.pdf
+CONTENIDO:
+
+Eres un artista compitiendo con otros artistas crear el más hermoso
+vitral en la Sagrada Familia. Sus piezas de vidrio son representadas
+por dados, que tienen un color y una sombra - indicada por los
+valores de los dados (mientras menor es el valor más tenue es la
+sombra).
+En cada ronda los jugadores hacen su turno tirando un pool de
+dados, colocándolos en su ventana, y nunca pueden haber dados
+adyacentes de igual color o número.
+Después de 10 rondas los jugadores puntúan basados en objetivos
+públicos y privados – el artesano con más puntos gana!
+SETUP DEL JUGADOR
+1.- Baraje las cartas objetivo privado (dado gris
+en el dorso) y entregue una a cada jugador boca
+abajo. Los jugadores pueden mirar su carta en
+secreto.
+2.- Dé a cada jugador al azar 2 tarjetas de
+patrón de ventana y 1 tablero de marco de
+ventana. Cada jugador selecciona 1 de los 4
+patrones de ventana para jugar (frente y dorso)
+y descarta la tarjeta no usada.
+Nota: Las ventanas varían en dificultad de nivel 3
+(más fácil) a 6 (más difícil) como lo indica su
+nombre. Las ventanas de mayor dificultad
+entregan más tokens de favor.
+3.- Dé a cada jugador el número de Tokens de
+favor indicados por el número de dificultad en
+su carta.
+4.- Deslice la tarjeta de patrón de ventana al
+fondo del tablero de marco de ventana.
+5.- Coloque un marcador de puntaje que
+coincida con el color del tablero de jugador
+junto al marcador de ronda. Éstos se usan
+durante la fase final de puntuación.
+SETUP DEL JUEGO
+A.- Coloque el Marcador de Ronda cerca
+del área de juego
+B.- Baraje las Cartas de Herramienta y
+coloque 3 en el centro de la mesa boca
+arriba.
+C.- Baraje todas las Cartas de Objetivo
+Público (dado azul en el dorso) y coloque 3
+boca arriba.
+D.- Coloque los 90 dados en la bolsa
+E.- Elija un jugador inicial y dele la bolsa
+con los dados. Un método sugerido es
+quien visitó últimamente una Catedral.
+Deje al lado todos los objetivos,
+herramientas y Cartas Ventana restantes,
+ellos NO se usarán en el juego.
+Nota: El setup es el mismo para 2,3 o 4
+jugadores
+JUGANDO
+Se juega en 10 Rondas.
+En cada ronda el jugador inicial (que tiene la bolsa con dados) saca una cantidad de dados según el
+número de jugadores y los lanza:
+2 jugadores - 5 dados
+3 jugadores – 7 dados
+4 jugadores – 9 dados
+2 por cada jugador más 1 adicional
+Una vez lanzados forman el Draft Pool.
+Comenzando por el jugador inicial cada jugador tiene su turno en el sentido de las agujas del reloj
+y en él cada jugador puede hacer cada una de las siguientes acciones en cualquier orden:
+• Seleccione 1 dado del Draft Pool y póngalo en un espacio abierto de su ventana
+• Use una carta de Herramienta gastando Tokens de Favor.
+Cada Acción es opcional – Un jugador puede elegir ambas, una o ninguna y pasar sin hacer
+acciones.
+El turno prosigue en sentido horario y cada jugador
+realiza acciones o pasa. EJ: - Emily toma el turno (1),
+luego Ben (2), luego Mari (3)
+Una vez que el último jugador ha tomado su turno
+la ronda continúa en orden reverso (Antihorario).
+Comenzando con el último jugador, cada jugador
+toma un 2° turno. Ej. Mari toma su segundo turno
+(4), luego Ben (5), luego Emily (6).
+Una vez que el jugador inicial ha tomado su
+segundo turno se procede al Fin de la Ronda.
+Tip: Ser el primero en usar cartas de Herramienta cuesta menos Tokens. Sin embargo, las
+habilidades de estas cartas serán más útiles hacia el final del juego, a medida que la ventana del
+jugador se va completando.
+COLOCANDO LOS DADOS
+Cuando se coloca un dado en la ventana:
+• Primer dado: El primer dado de cada jugador debe ser puesto en un borde o un espacio de
+esquina
+• Cada otro dado debe estar adyacente al dado previamente puesto, de forma ortogonal o
+diagonal
+• El dado debe coincidir con el color o restricción de sombra del espacio. Los espacios en
+blanco No tienen restricciones. P. ej: un espacio rojo en la ventana sólo puede ser llenado
+por un dado rojo (cualquier valor). Un espacio que muestre un 3 sólo puede ser llenado por
+un dado 3 (cualquier color)
+• Los dados nunca pueden colocarse ortogonalmente junto a un dado del mismo color o
+valor. P. ej: dos dados rojos o dos dados que muestren un 3 no pueden colocarse lado a
+lado
+• Los jugadores pueden elegir no colocar dados durante su turno
+Nota: cualquier dado puede ser colocado en un espacio en blanco mientras obedezca las reglas
+anteriores.
+Ejemplo: Este dado 2 rojo tiene 3 espacios que satisfacen
+todas las restricciones
+Tip: Trate de evitar poner dados cercano a un espacio
+coincidente (tales como un dado 2 cercano a un espacio 2 o
+un espacio rojo) de modo que un futuro dado pueda ser
+ubicado en ese espacio sin problemas.
+CARTAS DE HERRAMIENTA Y TOKENS DE FAVOR
+Los jugadores pueden gastar sus Tokens de Favor para ganar una habilidad especial de 1 Carta
+Herramienta durante su turno:
+1. Coloque los Tokens de Favor sobre
+la Carta Herramienta – 1 si no hay
+más Tokens sobre la carta, de otro
+modo ponga 2
+2. Use la Habilidad de la Carta
+Herramienta
+Los jugadores pueden elegir NO usar una
+Carta Herramienta en su turno
+FIN DE LA RONDA
+Todos los dados restantes se colocan en el marcador de Ronda cubriendo el espacio numérico de
+la ronda recién completada. Si quedaran múltiples dados (porque los jugadores se saltaron la
+acción de colocación) éstos no cubrirán espacios numéricos adicionales.
+La bolsa de dados es pasada al siguiente jugador
+en el sentido horario. Ahora éste es el jugador
+inicial y se comienza luego con la otra ronda.
+Si ésta fuera el fin de la ronda 10, es el fin del
+juego y se procede a la Puntuación del Juego.
+PUNTUACIÓN DEL JUEGO
+El juego termina al final de la ronda 10.
+1. Saque todos los dados del marcador de ronda y
+voltéelo para usar el marcador de puntaje.
+2. Use el marcador de puntuación de cada jugador
+para marcar su posición en el marcador de
+puntaje, volteando el marcador si excede los 50 puntos.
+Cada jugador registra sus Puntos de Victoria totales ganando puntos según:
+• Cada Carta Objetivo Público – Los jugadores pueden ganar puntos de cada carta múltiples
+veces. Objetivos basados en Fila/columna sólo puntúan para Filas/columnas completadas
+(sin espacios vacíos)
+• Su carta Objetivo Privado – sumando los valores de sus dados de colores especificados
+• Tokens de Favor – 1 PV por cada Token no gastado
+• Los jugadores pierden 1 PV por cada espacio NO completado en su ventana
+El jugador con más PV total es el ganador. Los empates se rompen con los puntos de los Objetivos
+Privados o Tokens de Favor remanentes.
+Ejemplo de Puntuación:
+Este ejemplo usa los objetivos públicos mostrados anteriormente en
+el SETUP del juego y ésta es la ventana final
+OBJETIVOS PUBLICOS:
+Variedad de color de columna: 5 PV de cada columna 4 y 5, 10 PV
+total. 0 puntos para las columnas 1 y 3 ya que ellas están
+incompletas, 0 PV para la columna 2 ya que ella tiene un dado verde
+repetido
+Sombras tenues: 2 PV por cada set de dados valor 1 o valor 2 (1s en
+B2, B4 y 2s en A2, D4, B5), 4PV total por 2 pares, el tercer valor 2 no es parte de un par así que no
+se cuenta.
+Variedad de color – 3 sets de1 de cada color da 4 PV cada uno. 12 PV total.
+Tip: El número de sets de un tipo siempre será la cuenta de dados con la menor cantidad de ese
+tipo
+OBJETIVO PRIVADO
+Sombras de púrpura: sumaría los valores de los dados de color púrpura (C1, C4 y A5), dando
+5+6+5= 17PV
+TOKEN FAVOR: 1 PV por cada remanente. No hubo ninguno = 0 PV
+ESPACIOS ABIERTOS: -1 PV por cada espacio NO completado (A1, B3 y C3) = -3 PV.
+TOTAL: 10 PV + 4 PV + 12 PV +17 PV + 0PV – 3 PV = 40 PV TOTAL
+ERRORES EN LA COLOCACIÓN DE DADOS
+Si la ventana de un jugador se encuentra alguna vez rompiendo las restricciones de ubicación de
+dados, el jugador debe removerlo (s) inmediatamente de su ventana hasta que se cumplan las
+restricciones. Estos dados son apartados del juego y los espacios abiertos resultantes contarán en
+contra como es habitual.
+REGLAS MODO SOLITARIO
+Al jugar Sagrada por solo, usted estará tratando de vencer un objetivo de Puntuación. El puntaje
+objetivo es la suma de los valores de todos los dados en el Marcador de Ronda al final del juego.
+SETUP
+Cada juego se configura normalmente con algunos pequeños cambios:
+• Las fichas de favor no se utilizan.
+• 2 objetivos públicos y 1 objetivo privado se colocan boca arriba.
+• Coloque las Cartas Herramienta en función del nivel de dificultad que desee jugar, entre 1
+Herramienta (Desafío Extremo) y 5 Herramientas (Muy Fácil).
+JUEGO
+Cada juego se juega como es normal en 10 asaltos, con algunos pequeños cambios:
+• Cada ronda, tira 4 dados de la Bolsa de Dados.
+• Tome 2 turnos, elija y coloque un dado (como es normal) y/o utilice una Carta Herramienta, o
+pase.
+CARTAS HERRAMIENTA
+Las Cartas Herramientas sólo pueden utilizarse una vez, gastando dados del Draft Pool. Para usarla
+ponga un dado del Draft Pool que coincida con el color o sombra mostrado en la punta izquierda
+de la carta Herramienta.
+Nota: Cada Carta Herramienta sólo se puede ser usada una vez. Tanto el dado gastado como la
+Carta Herramienta se quitan del juego.
+FIN DE RONDA
+Todos los dados restantes se colocan en el Marcador de Ronda como siempre, teniendo cuidado
+de no cambiar el valor de los dados. Si no quedan dados, utilice un Marcador de puntuación como
+marcador de posición.
+PUNTUACIÓN FINAL DEL JUEGO
+El juego termina después del final de la décima ronda. Antes de dar vuelta al Marcador de Ronda
+Seguir, calcule el puntaje objetivo:
+• El puntaje objetivo es la suma de los valores de todos los dados de la Marcador de Ronda. Los
+dados utilizados para pagar las Cartas de herramientas no se cuentan.
+• Registre sus PV totales si siempre, sin embargo, pierde 3 PV por cada espacio abierto.
+• Si su total de PV es mayor que el puntaje objetivo, ¡gana!
+
